@@ -1,1 +1,1 @@
-int a=5; int d=6;
+int a=5; int a=6;
